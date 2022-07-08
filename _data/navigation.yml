@@ -4,9 +4,20 @@ main:
     url: /about/
   - title: "Machine Learning"
     url: /ml/
-  # - title: ""
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Category"
+    url: /categories/
+  - title: "Search"
+    url: /search/
+
+docs:
+  - title: 'Menu'
+    children:
+      - title: "Category"
+        url: /categories/
+
+#docs: more sidebar menu
+#main:
+  # - title: "Tag"
+  #   url: /tags/
   # - title: "Sitemap"
   #   url: /sitemap/

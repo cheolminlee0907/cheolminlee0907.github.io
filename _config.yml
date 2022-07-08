@@ -30,9 +30,9 @@ masthead_title           : ""# overrides the website title displayed in the mast
 breadcrumbs              : True # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "cheol"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -75,7 +75,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
+naver_site_verification  : "81cbd76ade5a41bacef878dda25f23290b60c554"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -96,10 +96,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : 'google-gtag' # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
-    anonymize_ip         : # true, false (default)
+    tracking_id          : 'G-JSSMNHM14K'
+    anonymize_ip         : false # true, false (default)
 
 
 # Site Author
@@ -284,7 +284,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
       show_date: true
