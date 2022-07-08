@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Machine Learning"
-    url: /ml/
+  # - title: "Machine Learning"
+  #  url: /ml/
   - title: "Curriculum Vitae"
     url: /about/
-  - title: "Category"
+  - title: "Machine Learning"
     url: /categories/
   - title: "Search"
     url: /search/
