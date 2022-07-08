@@ -6,12 +6,13 @@ categories: R
 
 This post contains the prediction models for the Diabetes.
 
-```{r, warning = FALSE, message = FALSE}
+```{r}
 library(tidyverse)
 library(tidymodels)
 library(rpart.plot)
 library(ggridges)
 ```
+
 
 # Introduction
 
