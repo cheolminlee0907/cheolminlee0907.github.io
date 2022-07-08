@@ -2,7 +2,7 @@
 layout: single
 title:  "Diabetes Prediction Model"
 categories: "R"
-author_profile: true
+author_profile: false
 sidebar: 
     nav: 'docs'
 ---
