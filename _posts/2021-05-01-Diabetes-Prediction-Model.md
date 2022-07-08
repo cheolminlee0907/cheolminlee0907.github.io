@@ -1,7 +1,8 @@
 ---
 layout: single
 title:  "Diabetes Prediction Model"
-categories: R
+categories: Machine Learning
+tag: R
 ---
 
 This post contains the prediction models for the Diabetes.
