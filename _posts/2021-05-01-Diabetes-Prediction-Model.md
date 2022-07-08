@@ -2,6 +2,9 @@
 layout: single
 title:  "Diabetes Prediction Model"
 categories: "R"
+author_profile: false
+sidebar: 
+    nav: 'docs'
 ---
 
 This post contains the prediction models for the Diabetes.

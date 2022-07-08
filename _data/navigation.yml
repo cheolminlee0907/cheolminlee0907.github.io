@@ -6,6 +6,11 @@ main:
     url: /ml/
   - title: "Category"
     url: /categories/
+docs:
+  - title: 'Menu'
+    children:
+      - title: "Category"
+        url: /categories/
   # - title: "Tag"
   #   url: /tags/
   # - title: "Sitemap"
