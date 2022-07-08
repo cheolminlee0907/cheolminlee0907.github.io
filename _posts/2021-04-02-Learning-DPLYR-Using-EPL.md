@@ -7,7 +7,7 @@ sidebar:
     nav: 'docs'
 ---
 
-# This [link](https://cheolminlee0907.netlify.app/post/2021-04-02-learning-dplyr-using-epl/) will lead you to the post.
+## This [link](https://cheolminlee0907.netlify.app/post/2021-04-02-learning-dplyr-using-epl/) will lead you to the post.
 
 
 
