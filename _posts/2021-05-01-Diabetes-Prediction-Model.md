@@ -16,7 +16,6 @@ library(rpart.plot)
 library(ggridges)
 ```
 
-
 # Introduction
 
 According to the Centers for Disease Control and Prevention, there were 34.2 million people in the United States with a medical history of Diabetes. Even though there are numerous medications such as GLP-1 Agonist, SGLT2 inhibitors, insulin, etc., the incidence of diabetes is increasing. By 2050, the estimation of the diabetes prediction is 1 in 3 adults. There are many factors associated with diabetes such as obesity rates, ages, and others. This post will make prediction models of diabetes with the dataset from the Kaggle.[https://www.kaggle.com/mathchi/diabetes-data-set](https://www.kaggle.com/mathchi/diabetes-data-set) 
