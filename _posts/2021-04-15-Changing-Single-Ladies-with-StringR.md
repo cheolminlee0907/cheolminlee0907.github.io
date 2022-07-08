@@ -2,6 +2,7 @@
 layout: single
 title:  "Changing Single Ladies with StringR"
 categories: "R"
+tags: ["Stringr","Tidyverse"]
 author_profile: false
 sidebar: 
     nav: 'docs'

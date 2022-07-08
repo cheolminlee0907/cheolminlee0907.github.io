@@ -2,7 +2,7 @@
 layout: single
 title:  "What affect Students SAT Scores?"
 categories: "R"
-tags: ["R",'Data Visualization','Linear Regression']
+tags: ['Data Visualization',"ggplot"]
 author_profile: false
 sidebar: 
     nav: 'docs'

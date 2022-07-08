@@ -2,6 +2,7 @@
 layout: single
 title:  "Learning DPLYR using EPL Datasets"
 categories: "R"
+tags: ["Kaggle","Data Wrangling","EPL"]
 author_profile: false
 sidebar: 
     nav: 'docs'

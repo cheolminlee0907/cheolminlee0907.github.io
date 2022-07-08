@@ -2,6 +2,7 @@
 layout: single
 title:  "Cancer Prediction using PCA"
 categories: "Python"
+tags: ["PCA","Pandas","Logistic Regression","Kaggle","Cancer Prediction"]
 toc: true
 author_profile: false
 ---

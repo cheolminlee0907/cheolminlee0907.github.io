@@ -2,6 +2,7 @@
 layout: single
 title:  "Diabetes Prediction Model"
 categories: "R"
+tags: ["Diabetes","Tidyverse","ggridges","Decision Tree"]
 author_profile: false
 sidebar: 
     nav: 'docs'
