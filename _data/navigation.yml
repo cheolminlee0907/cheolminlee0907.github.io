@@ -6,11 +6,17 @@ main:
     url: /ml/
   - title: "Category"
     url: /categories/
+  - title: "Search"
+    url: /search/
+
 docs:
   - title: 'Menu'
     children:
       - title: "Category"
         url: /categories/
+
+#docs: more sidebar menu
+#main:
   # - title: "Tag"
   #   url: /tags/
   # - title: "Sitemap"
