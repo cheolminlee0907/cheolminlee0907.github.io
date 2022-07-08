@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Diabetes Prediction Model"
+ml: "Decision Tree"
 categories: "R"
 author_profile: false
 sidebar: 
