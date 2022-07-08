@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cheol Min Lee"
+title                    : "Cheol Min Lee's Data Science Blog"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Cheol Min Lee"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Cheol Min Lee"
   avatar           : "/assets/images/profile.jpg" 
-  bio              : "Washington University in St.Louis <br>MS Student<br>PharmD(2022)"
+  bio              : "Washington University in St.Louis <br>MS Student<br>PharmD (2022)"
   location         : "St.Louis, MO<br>     Seoul, South Korea"
   email            : #
   links:
