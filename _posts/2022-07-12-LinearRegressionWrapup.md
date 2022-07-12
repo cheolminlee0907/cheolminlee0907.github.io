@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "2022-01-12-Linear-Regression-Model-Using-Diabetes-Dataset"
+title:  "Building Linear Regression Model using Diabetes"
 categories: "Python"
 tag: ['Linear Regression', 'Mean Absolute Error', 'Mean Squared Error', 'Diabetes','Scikit Learn']
 toc: true
@@ -27,16 +27,16 @@ author_profile: false
       font-weight: bold;
       padding: 8px;
     }
-
+    
     table.dataframe td {
       text-align: center;
       padding: 8px;
     }
-
+    
     table.dataframe tr:hover {
       background: #b8d1f3; 
     }
-
+    
     .output_prompt {
       overflow: auto;
       font-size: 0.9rem;
@@ -78,18 +78,11 @@ author_profile: false
   </style>
 </head>
 
-
-# Linear Regression using Diabetes Model
-
-
 ### Introduction
 
 This post contains the descriptions and methods on how to draw a linear regression model using the Diabetes model provided by Scikit-Learn Datasets. I will go over several methods and evaluation techniques that can help to build a linear regression model.
 
-
 ### Loading Datasets
-
-
 
 ```python
 from sklearn.datasets import load_diabetes
@@ -159,7 +152,7 @@ diabetes_df
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -445,7 +438,7 @@ I used train_test_split to divide the datasets.
 
 Hyperparameters of train_test_split includes...
 
-            
+​            
 
             train_test_split(x,y,test_size, random_state = #)
 
@@ -643,8 +636,6 @@ print(sklearn.metrics.SCORERS.keys())
 dict_keys(['explained_variance', 'r2', 'max_error', 'neg_median_absolute_error', 'neg_mean_absolute_error', 'neg_mean_absolute_percentage_error', 'neg_mean_squared_error', 'neg_mean_squared_log_error', 'neg_root_mean_squared_error', 'neg_mean_poisson_deviance', 'neg_mean_gamma_deviance', 'accuracy', 'top_k_accuracy', 'roc_auc', 'roc_auc_ovr', 'roc_auc_ovo', 'roc_auc_ovr_weighted', 'roc_auc_ovo_weighted', 'balanced_accuracy', 'average_precision', 'neg_log_loss', 'neg_brier_score', 'adjusted_rand_score', 'rand_score', 'homogeneity_score', 'completeness_score', 'v_measure_score', 'mutual_info_score', 'adjusted_mutual_info_score', 'normalized_mutual_info_score', 'fowlkes_mallows_score', 'precision', 'precision_macro', 'precision_micro', 'precision_samples', 'precision_weighted', 'recall', 'recall_macro', 'recall_micro', 'recall_samples', 'recall_weighted', 'f1', 'f1_macro', 'f1_micro', 'f1_samples', 'f1_weighted', 'jaccard', 'jaccard_macro', 'jaccard_micro', 'jaccard_samples', 'jaccard_weighted'])
 </pre>
 ### Conclude
-
-
 
 We have looked into several methods on how to draw a linear regression model using the diabetes dataset provided by ScikitLearn. The Mean Absolute Error and other evaluating parameters were not pleasing. Therefore, there must be alternative ways to draw and build a more promising regression model using this data.
 
