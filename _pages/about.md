@@ -84,6 +84,11 @@ Doctor of Pharmacy - Graduated on May 2022
 
 ### Data Science Experience
 
+#### Supervised Machine Learning: Regression and Classification Coursera Course (June - July 2022)
+
+- Learned how to utilize and build regression and classification machine learning models
+- Experienced several techniques such as regularization, gradient descents, linear and logistic regression models, and more.
+
 #### TensorFlow Developer Certificate (January 2021 – Present)
 
 - Registration Number: 27295241
