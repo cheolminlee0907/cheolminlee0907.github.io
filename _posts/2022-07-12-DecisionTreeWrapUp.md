@@ -1277,7 +1277,7 @@ with open('tree.dot') as f:
 graphviz.Source(dot_graph)
 ```
 
-![tree](images/2022-07-12-DecisionTreeWrapUp/tree.png)
+![tree]("/assets/images/tree.png")
 
 
 ```python
@@ -1388,7 +1388,7 @@ with open('tree2.dot') as f:
 graphviz.Source(dot_graph)
 ```
 
-![tree2](images/2022-07-12-DecisionTreeWrapUp/tree2.png)
+![tree2]("/assets/images/tree2.png")
 
 After setting the parameters, accuracy has been decrease by 2% and False Negative values have been increased. However, tree became simpler and will have less overfitting problem than before.
 
