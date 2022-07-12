@@ -475,11 +475,11 @@ I used X_tn (features for training) and y_tn (label(target) for training set to 
 
 ##### Predicting y value using Linear Regression Model
 
-
-
 ```python
 y_pred = lr_reg.predict(X_te)
 ```
+
+
 
 ### Evaluating Linear Regression Model
 
@@ -514,9 +514,9 @@ Mean Sqaured Error is 3212.5919086583094
 Root Mean Squared Error is 56.67973102140049
 R2 score is 0.5771693213852915
 </pre>
+
+
 ##### Ordering Coefficient Values
-
-
 
 ```python
 print(lr_reg.intercept_)
@@ -547,6 +547,8 @@ sex   -244.048071
 s1    -449.716682
 dtype: float64
 </pre>
+
+
 ### Using K-Fold to split the data
 
 - from sklearn.model_selection import KFold
@@ -594,7 +596,9 @@ print(f"Average MAE value for {n_iter} iterations: {np.mean(cv_accuracy)}")
 5 Set MAE value: 42.38729269073615
 Average MAE value for 5 iterations: 44.276402322312244
 </pre>
-### Using Cross val score to get MAE
+
+
+### Using Cross Val Score to get MAE
 
 - from sklearn.model_selection import cross_val_score
 
@@ -635,6 +639,8 @@ print(sklearn.metrics.SCORERS.keys())
 <pre>
 dict_keys(['explained_variance', 'r2', 'max_error', 'neg_median_absolute_error', 'neg_mean_absolute_error', 'neg_mean_absolute_percentage_error', 'neg_mean_squared_error', 'neg_mean_squared_log_error', 'neg_root_mean_squared_error', 'neg_mean_poisson_deviance', 'neg_mean_gamma_deviance', 'accuracy', 'top_k_accuracy', 'roc_auc', 'roc_auc_ovr', 'roc_auc_ovo', 'roc_auc_ovr_weighted', 'roc_auc_ovo_weighted', 'balanced_accuracy', 'average_precision', 'neg_log_loss', 'neg_brier_score', 'adjusted_rand_score', 'rand_score', 'homogeneity_score', 'completeness_score', 'v_measure_score', 'mutual_info_score', 'adjusted_mutual_info_score', 'normalized_mutual_info_score', 'fowlkes_mallows_score', 'precision', 'precision_macro', 'precision_micro', 'precision_samples', 'precision_weighted', 'recall', 'recall_macro', 'recall_micro', 'recall_samples', 'recall_weighted', 'f1', 'f1_macro', 'f1_micro', 'f1_samples', 'f1_weighted', 'jaccard', 'jaccard_macro', 'jaccard_micro', 'jaccard_samples', 'jaccard_weighted'])
 </pre>
+
+
 ### Conclude
 
 We have looked into several methods on how to draw a linear regression model using the diabetes dataset provided by ScikitLearn. The Mean Absolute Error and other evaluating parameters were not pleasing. Therefore, there must be alternative ways to draw and build a more promising regression model using this data.
