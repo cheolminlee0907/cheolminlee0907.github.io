@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "2022-07-12-Decision-Tree-using-Breast-Cancer-Data"
+title: "Decision Tree using Breast Cancer Data"
 categories: Python
 tag: ["Decision Tree", "GridSearchCV", "Confusion Matrix", "Cancer Prediction","Kaggle","Visualization","Graphviz"]
 toc: true
@@ -1277,9 +1277,8 @@ with open('tree.dot') as f:
 graphviz.Source(dot_graph)
 ```
 
-<pre>
-<graphviz.sources.Source at 0x7f9339d6e520>
-</pre>
+![tree](images/2022-07-12-DecisionTreeWrapUp/tree.png)
+
 
 ```python
 for name, value in zip(feature_name, dt_clf.feature_importances_):
@@ -1389,9 +1388,8 @@ with open('tree2.dot') as f:
 graphviz.Source(dot_graph)
 ```
 
-<pre>
-<graphviz.sources.Source at 0x7f9339d6e2b0>
-</pre>
+![tree2](images/2022-07-12-DecisionTreeWrapUp/tree2.png)
+
 After setting the parameters, accuracy has been decrease by 2% and False Negative values have been increased. However, tree became simpler and will have less overfitting problem than before.
 
 
