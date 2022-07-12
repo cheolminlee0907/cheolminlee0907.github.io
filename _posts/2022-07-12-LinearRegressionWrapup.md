@@ -420,6 +420,8 @@ for i, feature in enumerate(diabetes_feature):
 As shown above, BMI shows the greatest influence on the target of our data. Cholesterol and serum triglycerides also show a positive correlation. As you can see, HDL, which is known for good cholesterol, has a negative relationship with the target.
 
 
+
+
 ### Developing Linear Regression Model
 
 
@@ -472,29 +474,20 @@ LinearRegression()
 </pre>
 I used X_tn (features for training) and y_tn (label(target) for training set to build the linear regression model.
 
-
 ##### Predicting y value using Linear Regression Model
 
 ```python
 y_pred = lr_reg.predict(X_te)
 ```
 
-
-
 ### Evaluating Linear Regression Model
-
 
 ##### Regression Evaluation Metrics: from sklearn.metrics
 
-- Mean Absolute Error (MAE): average of abs(y-y_prediction): import mean_absolute_error
-
-- Mean Squared Error (MSE): average of square(y-y_prediction): import mean_squared_error
-
-- Root Mean Squared Error (RMSE): root of MSE: import mean_squared_error but use mean_squared_error(y, y_prediction, squared = False)
-
-- R2: look for the variance of prediction and y value --> variance(y_prediction) / variance (y): import r2_score
-
-
+- Mean Absolute Error (MAE): average of abs(y-y_prediction): **import mean_absolute_error**
+- Mean Squared Error (MSE): average of square(y-y_prediction): **import mean_squared_error**
+- Root Mean Squared Error (RMSE): root of MSE: **import mean_squared_error but use mean_squared_error(y, y_prediction, squared = False)**
+- R2: look for the variance of prediction and y value --> variance(y_prediction) / variance (y): **import r2_score**
 
 ```python
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
@@ -514,8 +507,6 @@ Mean Sqaured Error is 3212.5919086583094
 Root Mean Squared Error is 56.67973102140049
 R2 score is 0.5771693213852915
 </pre>
-
-
 ##### Ordering Coefficient Values
 
 ```python
@@ -547,17 +538,13 @@ sex   -244.048071
 s1    -449.716682
 dtype: float64
 </pre>
-
-
 ### Using K-Fold to split the data
 
 - from sklearn.model_selection import KFold
 
-- KFOLD(n_splits = #) 
-
-       #: number of evaluating sets
-
-
+- **KFold(n_splits = #) **
+   - #: number of evaluating sets
+   
 
 ```python
 from sklearn.model_selection import KFold
@@ -596,15 +583,11 @@ print(f"Average MAE value for {n_iter} iterations: {np.mean(cv_accuracy)}")
 5 Set MAE value: 42.38729269073615
 Average MAE value for 5 iterations: 44.276402322312244
 </pre>
-
-
 ### Using Cross Val Score to get MAE
 
-- from sklearn.model_selection import cross_val_score
+- **from sklearn.model_selection import cross_val_score**
 
-        cross_val_score(estimator = , x = , y = , scoring = "method", cv = # of cross validation set)
-
-
+    cross_val_score(estimator = , x = , y = , scoring = "method", cv = # of cross validation set)
 
 
 
@@ -629,8 +612,6 @@ Average MAE value of 5 iteration: 44.278
 </pre>
 Types of scoring methods provided by sklearn
 
-
-
 ```python
 import sklearn
 print(sklearn.metrics.SCORERS.keys())
@@ -641,7 +622,7 @@ dict_keys(['explained_variance', 'r2', 'max_error', 'neg_median_absolute_error',
 </pre>
 
 
-### Conclude
+### Conclusion
 
 We have looked into several methods on how to draw a linear regression model using the diabetes dataset provided by ScikitLearn. The Mean Absolute Error and other evaluating parameters were not pleasing. Therefore, there must be alternative ways to draw and build a more promising regression model using this data.
 
