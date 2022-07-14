@@ -803,9 +803,6 @@ VotingClassifier(estimators=[('Logistic Regression',
                  voting='soft')
 </pre>
 
-```python
-y_pred = vot_clf.predict(X_te)
-```
 
 ### Evaluating Result
 
@@ -813,6 +810,9 @@ y_pred = vot_clf.predict(X_te)
 #####  Ensemble Model
 
 
+```python
+y_pred = vot_clf.predict(X_te)
+```
 
 ```python
 from sklearn.metrics import accuracy_score
@@ -823,8 +823,6 @@ print(f"Accuracy of ensemble model is {np.round(accuracy_score(y_te,y_pred),2)*1
 Accuracy of ensemble model is 96.0%
 </pre>
 ##### Each Model Separately
-
-
 
 ```python
 estimators = [lr_clf, knn_clf, svm_clf]

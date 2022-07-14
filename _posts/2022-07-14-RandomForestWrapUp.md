@@ -758,25 +758,7 @@ X_tn, X_te, y_tn, y_te = train_test_split(cancer, cancer_target, test_size = 0.2
 ```
 
 
-```python
-y_tn.astype('category')
-```
 
-<pre>
-2      0
-74     1
-456    1
-564    0
-411    1
-      ..
-332    1
-269    1
-337    0
-91     0
-80     1
-Name: diagnosis, Length: 455, dtype: category
-Categories (2, int64): [0, 1]
-</pre>
 ### Building Random Forest Model
 
 
