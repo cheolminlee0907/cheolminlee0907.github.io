@@ -4,6 +4,8 @@ title:  "Building a Voting Ensemble Model"
 categories: Python
 tag: ["Ensemble Model","Breast Cancer","Cancer Prediction","Voting"]
 toc: true
+toc_sticky: true
+toc_label: "Table of Contents"
 author_profile: false
 ---
 
@@ -27,16 +29,16 @@ author_profile: false
       font-weight: bold;
       padding: 8px;
     }
-
+    
     table.dataframe td {
       text-align: center;
       padding: 8px;
     }
-
+    
     table.dataframe tr:hover {
       background: #b8d1f3; 
     }
-
+    
     .output_prompt {
       overflow: auto;
       font-size: 0.9rem;
@@ -112,7 +114,7 @@ cancer
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -434,7 +436,7 @@ cancer
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
