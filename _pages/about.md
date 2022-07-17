@@ -84,6 +84,10 @@ Doctor of Pharmacy - Graduated on May 2022
 
 ### Data Science Experience
 
+#### Advanced Learning Algorithms Coursera Course (July 2022)
+
+- Experienced the basics of deep learning mechanisms, such as optimization methods, regularizations, transfer learnings, and more.
+
 #### Supervised Machine Learning: Regression and Classification Coursera Course (June - July 2022)
 
 - Learned how to utilize and build regression and classification machine learning models
