@@ -5,6 +5,7 @@ categories:
   - 'Deep Learning'
 tag: ['Python', 'Gradient Descent']
 toc: true
+toc_sticky: true
 author_profile: false
 ---
 

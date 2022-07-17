@@ -5,6 +5,7 @@ categories:
   - "Deep Learning"
 tag: ['Python', 'Deep Learning', 'Sequential','Dense', 'Adam','Diabetes Prediction']
 toc: true
+toc_sticky: true
 author_profile: false
 ---
 
