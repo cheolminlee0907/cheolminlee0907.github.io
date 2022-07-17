@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Machine Learning"
     url: /categories/
+  - title: "Deep Learning"
+    url: /deep/
   - title: 'Tag'
     url: /tags/
   - title: "Search"
