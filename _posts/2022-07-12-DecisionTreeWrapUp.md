@@ -1,8 +1,9 @@
 ---
 layout: single
 title: "Decision Tree using Breast Cancer Data"
-categories: Python
-tag: ["Decision Tree", "GridSearchCV", "Confusion Matrix", "Cancer Prediction","Kaggle","Visualization","Graphviz"]
+categories: 
+  - "Machine Learning"
+tag: ["Python", "GridSearchCV", "Confusion Matrix", "Cancer Prediction","Kaggle","Visualization","Graphviz"]
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"

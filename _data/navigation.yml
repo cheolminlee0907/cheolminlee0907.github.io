@@ -4,10 +4,8 @@ main:
   #  url: /ml/
   - title: "Curriculum Vitae"
     url: /about/
-  - title: "Machine Learning"
+  - title: "Categories"
     url: /categories/
-  - title: "Deep Learning"
-    url: /deep/
   - title: 'Tag'
     url: /tags/
   - title: "Search"
