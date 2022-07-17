@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning"
-layout: deep
+layout: categories
 permalink: /deep/
 author_profile: true
 sidebar_main: true
