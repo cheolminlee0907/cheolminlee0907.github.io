@@ -1,8 +1,9 @@
 ---
 layout: single
 title:  "Diabetes Prediction Model"
-categories: "R"
-tags: ["Diabetes","Tidyverse","ggridges","Decision Tree"]
+categories: 
+    - "Machine Learning"
+tags: ['R',"Diabetes","Tidyverse","ggridges","Decision Tree"]
 author_profile: false
 sidebar: 
     nav: 'docs'

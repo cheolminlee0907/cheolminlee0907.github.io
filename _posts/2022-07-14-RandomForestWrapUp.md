@@ -1,8 +1,9 @@
 ---
 layout: single
 title:  "Building Random Forest Model"
-categories: Python
-tag: ["Random Forest Model", 'GridSearchCV', 'Visualization', 'Bootstrapping','Bagging']
+categories:
+  - "Machine Learning"
+tag: ["Python","Random Forest Model", 'GridSearchCV', 'Visualization', 'Bootstrapping','Bagging']
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"

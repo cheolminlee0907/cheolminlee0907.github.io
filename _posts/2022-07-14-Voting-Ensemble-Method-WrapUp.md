@@ -1,8 +1,9 @@
 ---
 layout: single
 title:  "Building a Voting Ensemble Model"
-categories: Python
-tag: ["Ensemble Model","Breast Cancer","Cancer Prediction","Voting"]
+categories: 
+  - Machine Learning
+tag: ['Python',"Ensemble Model","Breast Cancer","Cancer Prediction","Voting"]
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"

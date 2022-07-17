@@ -1,8 +1,9 @@
 ---
 layout: single
 title:  "Learning DPLYR using EPL Datasets"
-categories: "R"
-tags: ["Kaggle","Data Wrangling","EPL"]
+categories: 
+    - "Machine Learning"
+tags: ['R',"Kaggle","Data Wrangling","EPL"]
 author_profile: false
 sidebar: 
     nav: 'docs'

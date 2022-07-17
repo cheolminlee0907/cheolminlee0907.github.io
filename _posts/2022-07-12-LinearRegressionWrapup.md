@@ -1,8 +1,9 @@
 ---
 layout: single
 title:  "Building Linear Regression Model using Diabetes"
-categories: "Python"
-tag: ['Linear Regression', 'Mean Absolute Error', 'Mean Squared Error', 'Diabetes','Scikit Learn']
+categories: 
+  - 'Machine Learning'
+tag: ["Python",'Linear Regression', 'Mean Absolute Error', 'Mean Squared Error', 'Diabetes','Scikit Learn']
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"

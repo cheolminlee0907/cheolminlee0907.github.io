@@ -1,8 +1,9 @@
 ---
 layout: single
 title:  "What affect Students SAT Scores?"
-categories: "R"
-tags: ['Data Visualization',"ggplot"]
+categories: 
+    - "Machine Learning"
+tags: ['R','Data Visualization',"ggplot"]
 author_profile: false
 sidebar: 
     nav: 'docs'
