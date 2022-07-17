@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning"
+title: "Categories"
 layout: categories
 permalink: /categories/
 author_profile: true
