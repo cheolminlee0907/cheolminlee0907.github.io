@@ -1,7 +1,8 @@
 ---
 layout: single
 title:  "Gradient Descent"
-categories: 'Deep Learning'
+categories: 
+  - 'Deep Learning'
 tag: ['Python', 'Gradient Descent']
 toc: true
 author_profile: false
@@ -77,9 +78,6 @@ author_profile: false
 
   </style>
 </head>
-
-
-# Gradient Descent
 
 
 ## Simple Linear Regression Model
