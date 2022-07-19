@@ -29,16 +29,16 @@ author_profile: false
       font-weight: bold;
       padding: 8px;
     }
-
+    
     table.dataframe td {
       text-align: center;
       padding: 8px;
     }
-
+    
     table.dataframe tr:hover {
       background: #b8d1f3; 
     }
-
+    
     .output_prompt {
       overflow: auto;
       font-size: 0.9rem;
@@ -116,7 +116,7 @@ iris_df
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -269,7 +269,7 @@ iris_df
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
@@ -395,7 +395,7 @@ y
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
