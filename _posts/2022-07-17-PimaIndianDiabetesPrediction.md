@@ -3,7 +3,7 @@ layout: single
 title:  "Deep Learning model for Diabetes Prediction"
 categories: 
   - "Deep Learning"
-tag: ['Python', 'Deep Learning', 'Sequential','Dense', 'Adam','Diabetes Prediction']
+tag: ['Python', 'TensorFlow','Deep Learning', 'Sequential','Dense', 'Adam','Diabetes Prediction']
 toc: true
 toc_sticky: true
 author_profile: false
