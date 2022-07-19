@@ -15,7 +15,8 @@ Studying MS Biomedical Informatics (concentrating on Translational Bioinformatic
 
 #### MCPHS University at Boston, MA
 
-Doctor of Pharmacy - Graduated on May 2022\nCum Laude
+- Doctor of Pharmacy - Graduated on May 2022
+- Cum Laude
 
 ### Clinical Rotation
 
