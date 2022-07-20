@@ -84,7 +84,7 @@ author_profile: false
 ## Introduction
 
 
-This post contains how to utilize **validation set** to improve a quality of machine learning model.
+This post contains how to utilize **validation set** to improve a quality of machine learning model. Here, I used wine quality data from [Kaggle](https://www.kaggle.com/code/kendravanhardenberg/wine-quality-prediction).
 
 
 ## Loading Dataset and packages
