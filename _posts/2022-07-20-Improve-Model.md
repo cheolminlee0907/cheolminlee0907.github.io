@@ -3,7 +3,7 @@ layout: single
 title:  "How to Improve Model"
 categories: 
   - "Deep Learning"
-tag: ["Python",'Early Stopping', 'Over Fit', "Validation Set"]
+tag: ["Python",'TensorFlow','Early Stopping', 'Over Fit', "Validation Set"]
 toc: true
 toc_sticky: true
 author_profile: false

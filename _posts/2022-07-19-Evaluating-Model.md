@@ -3,7 +3,7 @@ layout: single
 title:  "Evaluating Model"
 categories: 
   - "Deep Learning"
-tag: ['Python', "Train Test Split", "Mine vs Rock",'KFold']
+tag: ['Python','TensorFlow', "Train Test Split", "Mine vs Rock",'KFold']
 toc: true
 toc_sticky: true
 author_profile: false

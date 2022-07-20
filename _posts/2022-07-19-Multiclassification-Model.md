@@ -3,7 +3,7 @@ layout: single
 title:  "Multiclassification Model"
 categories: 
   - "Deep Learning"
-tag: ['Python', "Soft Max", "pairplot","Tensorflow"]
+tag: ['Python', "Soft Max", "pairplot","TensorFlow"]
 toc: true
 toc_sticky: true
 author_profile: false
