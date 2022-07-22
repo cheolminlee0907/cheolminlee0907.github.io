@@ -83,13 +83,9 @@ author_profile: false
 
 ## Step Function
 
-$$
-x>0, h(x) = 1
-$$
+x>0, h(x) = 1  
 
-$$
 x<=0, h(x) = 0
-$$
 
 
 
