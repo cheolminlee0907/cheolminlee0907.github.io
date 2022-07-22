@@ -83,10 +83,13 @@ author_profile: false
 
 ## Step Function
 
+$$
+x>0, h(x) = 1
+$$
 
-if $x > 0$, $h(x) = 1$   
-
-if $x <= 0$, $h(x) = 0$
+$$
+x<=0, h(x) = 0
+$$
 
 
 

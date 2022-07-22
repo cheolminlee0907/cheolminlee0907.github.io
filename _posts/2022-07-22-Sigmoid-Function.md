@@ -83,8 +83,9 @@ author_profile: false
 
 ## Sigmoid Function
 
-
-$H(x) = \frac{1}{1+e^{-x}}$
+$$
+H(x) = \frac{1}{1+e^{-x}}
+$$
 
 
 
