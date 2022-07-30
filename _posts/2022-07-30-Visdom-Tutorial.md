@@ -1,16 +1,12 @@
 ---
 layout: single
-title: "Visdom Tutorial"
+title:  "Visdom Tutorial"
 categories: 
   - 'Deep Learning'
-tag: ['Python','Pytorch','Visdom']
+tag: ['Python','Pytorch',"Visdom"]
 toc: true
 toc_sticky: true
 author_profile: false
----
-
-
-
 ---
 
 
@@ -269,6 +265,14 @@ def loss_tracker(loss_plot, loss_value, num):
             win = loss_plot,
             update = 'append')
 ```
+
+##### 1. Draw Plot
+
+loss_plt = vis.line(Y = torch.Tensor(1).zero_(), opts = dict(title = 'Loss Tracker'))
+
+##### 2. Update at the end of each Epoch
+
+loss_tracker(loss_plt,torch.Tensor([avg_loss]), torch.Tensor([epoch])): **Must be in Tensor**
 
 
 ```python
