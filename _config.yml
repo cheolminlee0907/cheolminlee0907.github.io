@@ -127,7 +127,7 @@ author:
       url: "https://www.instagram.com/iam_ironmin/"
     - label: "ORCID"
       icon: "fas fa-fw fa-link"
-      url: https://orcid.org/0000-0002-3045-579X
+      url: "https://orcid.org/0000-0002-3045-579X"
 
 # Site Footer
 footer:
@@ -152,7 +152,7 @@ footer:
       url: "https://www.instagram.com/iam_ironmin/"
     - label: "ORCID"
       icon: "fas fa-fw fa-link"
-      url: https://orcid.org/0000-0002-3045-579X
+      url: "https://orcid.org/0000-0002-3045-579X"
 
 
 # Reading Files
