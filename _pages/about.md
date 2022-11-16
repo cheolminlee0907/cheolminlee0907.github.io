@@ -11,7 +11,7 @@ toc_label: "Table of Contents"
 
 #### Washington University in St. Louis at St. Louis, MO
 
-Studying MS Biomedical Informatics (concentrating on Translational Bioinformatics)
+- Pursuing Master of Science in Biomedical Informatics with a concentration on Translational Bioinformatics
 
 #### MCPHS University at Boston, MA
 
