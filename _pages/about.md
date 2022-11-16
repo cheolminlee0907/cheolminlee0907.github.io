@@ -18,6 +18,31 @@ Studying MS Biomedical Informatics (concentrating on Translational Bioinformatic
 - Doctor of Pharmacy - Graduated on May 2022
 - Cum Laude
 
+### Research Rotation
+
+#### Washington University in St. Louis 
+
+#### Kannampallil Lab (November 2022 - Present)
+
+- Utilized audit log data to assess cognitive load associated with clinician work activities and develop a measure of undivided attention for clinicians. 
+
+#### NeuroGenomics and Informatics Center (September 2022 - Present)
+
+- Study the age- and sex-specific effects on protein level expressions in cerebrospinal fluids.
+- Convert findings from previous work into a research article and perform additional analysis if necessary.
+
+#### Goldfarb Lab (August - November 2022)
+
+- Learned how Mass Spectrometry is utilized in sequencing peptides.
+- Prepare to train a deep learning model to predict peptide fragmentation patterns for better de novo sequencing. 
+- Enhanced previous student’s file using C# and python to generate peptide data using different collision energies.
+- Performed data quality assessments on generated data and evaluated the modification of data generation steps.
+
+#### Research Rotation at MCPHS University (June - August 2021)
+
+- Prepared for a publication (as a first author) an academic review article analyzing how counter-anions of antimicrobial agents affect the efficacy of antimicrobial activity.
+- Scrutinized hundreds of published articles, oversaw the drafting and review process, and successfully sent the finalized manuscript to the journal within six weeks.
+
 ### Clinical Rotation
 
 #### Beth Israel Hospital at Needham (January - February 2022)
@@ -40,12 +65,6 @@ Studying MS Biomedical Informatics (concentrating on Translational Bioinformatic
 
 - Interpreted various journal articles and introduced new applications for artificial intelligence in healthcare, including for early disease states detections and drug discovery processes.
 - Utilize electronic health record system (EPIC) to individualize and tailor pharmacotherapy regimens to manage diabetes, hypertension, smoking cessations, and more; discussed the results with group members and preceptor, and delivered patient counseling based on this feedback.
-
-#### Research Rotation at MCPHS University (June - August 2021)
-
-- Prepared for a publication (as a first author) an academic review article analyzing how counter-anions of antimicrobial agents affect the efficacy of antimicrobial activity.
-- Scrutinized hundreds of published articles, oversaw the drafting and review process, and successfully sent the finalized manuscript to the journal within six weeks.
-- Status: Revision for re-submission 11/17/2021. 
 
 #### Spaulding Rehabilitation Hospital (May 2021)
 
