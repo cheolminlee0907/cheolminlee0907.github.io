@@ -106,6 +106,11 @@ toc_label: "Table of Contents"
 
 ### Data Science Experience
 
+#### Coursera
+
+- Advanced Learning Algorithms
+- Supervised Machine Learning: Regression and Classification
+
 #### Advanced Learning Algorithms Coursera Course (July 2022)
 
 - Experienced the basics of deep learning mechanisms, such as optimization methods, regularizations, transfer learnings, and more.
