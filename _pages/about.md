@@ -22,23 +22,25 @@ Studying MS Biomedical Informatics (concentrating on Translational Bioinformatic
 
 #### Washington University in St. Louis 
 
-#### Kannampallil Lab (November 2022 - Present)
+##### Kannampallil Lab (November 2022 - Present)
 
 - Utilized audit log data to assess cognitive load associated with clinician work activities and develop a measure of undivided attention for clinicians. 
 
-#### NeuroGenomics and Informatics Center (September 2022 - Present)
+##### NeuroGenomics and Informatics Center (September 2022 - Present)
 
 - Study the age- and sex-specific effects on protein level expressions in cerebrospinal fluids.
 - Convert findings from previous work into a research article and perform additional analysis if necessary.
 
-#### Goldfarb Lab (August - November 2022)
+##### Goldfarb Lab (August - November 2022)
 
 - Learned how Mass Spectrometry is utilized in sequencing peptides.
 - Prepare to train a deep learning model to predict peptide fragmentation patterns for better de novo sequencing. 
 - Enhanced previous student’s file using C# and python to generate peptide data using different collision energies.
 - Performed data quality assessments on generated data and evaluated the modification of data generation steps.
 
-#### Research Rotation at MCPHS University (June - August 2021)
+#### MCPHS University
+
+##### Research Rotation with Dr. Ronny Priefer (June - August 2021)
 
 - Prepared for a publication (as a first author) an academic review article analyzing how counter-anions of antimicrobial agents affect the efficacy of antimicrobial activity.
 - Scrutinized hundreds of published articles, oversaw the drafting and review process, and successfully sent the finalized manuscript to the journal within six weeks.
